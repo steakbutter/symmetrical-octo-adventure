@@ -36,6 +36,7 @@ Next we are going to use the seed script inside package.json file by typing "npm
 This will seed and fill our database with the provided information inside the seed folder. <br><br>
 
 Using the thunder client extension inside VS code, it is time to GET routes for all categories, all products and all tags <br><br>
+![GET ROUTES](https://github.com/steakbutter/symmetrical-octo-adventure/assets/156126513/a4eb35dc-caa2-42c3-9106-3e5377867480) <br><br>
 
 
  Next we are going to demonstrate GET routes for a single category, product and tag <br><br>
@@ -43,7 +44,8 @@ Using the thunder client extension inside VS code, it is time to GET routes for 
 
 
  Finally we are going to demonstrate how to create a new product, update the information of that new product and delete the new product. <br><br>
- 
+ ![POST PUT DELETE](https://github.com/steakbutter/symmetrical-octo-adventure/assets/156126513/cd7f8493-2f62-4784-93aa-442aa3611c2f)
+
 
 
 ## Credits
