@@ -43,7 +43,7 @@ Using the thunder client extension inside VS code, it is time to GET routes for 
 ![GET ONE ROUTE](https://github.com/steakbutter/symmetrical-octo-adventure/assets/156126513/5eb87903-0971-467b-9e0e-4c5ead7da061) <br><br>
 
 
- Finally we are going to demonstrate how to create a new product, update the information of that new product and delete the new product. <br><br>
+ Finally we are going to demonstrate how to create a new category, update the information of that new category and delete it. <br><br>
  ![POST PUT DELETE](https://github.com/steakbutter/symmetrical-octo-adventure/assets/156126513/cd7f8493-2f62-4784-93aa-442aa3611c2f)
 
 
